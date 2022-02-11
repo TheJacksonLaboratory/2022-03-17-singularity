@@ -278,7 +278,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 
-<p><a href="">Post-workshop Survey</a></p>
+<p><a href="https://form.jotform.com/220416954725155">Post-workshop Survey</a></p>
 
 
 <hr/>
